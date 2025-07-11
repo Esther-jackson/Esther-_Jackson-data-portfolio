@@ -6,5 +6,5 @@ This project is a reverse-engineering of a professional mobile sales dashboard I
 - **GOAL:** Show brand performance, customer churn, and MoM trends
 - **Tools Used:** Power BI, DAX, Slicers, KPI Cards
 - **Challenges:** No tutorial or video — just data and visuals to guide me
-- 📎 [View Dashboard (PDF)](onyx-sales-dashboard pdf)
+- 📎 [View Dashboard (PDF)](onyx-sales-dashboard.pdf)
 More projects coming soon...
